@@ -14,3 +14,4 @@ python desu.py
 ````
 
 ### screenshot
+![ss](https://github.com/hekelpro/otaku/blob/main/images/IMG_20211028_101038.jpg)
