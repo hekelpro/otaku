@@ -7,7 +7,7 @@ pkg update && pkg upgrade
 pkg install git
 pkg install python
 python3 -m pip install bs4
-python3-m pip install requests
+python3 -m pip install requests
 gut clone https://github.com/hekelpro/otaku
 cd otaku
 python desu.py
